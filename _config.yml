@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Graham Northrup"
+title: "The BIG Talk"
 description: "Personal website of Graham Northrup"
 logo: lamp3.gif
 teaser: lamp4.gif # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://gnorthrup.github.io
+url: https://vishwas-DS.github.io
 feed:
   path: atom.xml
 
@@ -26,15 +26,15 @@ gems:
 
 # Site owner
 owner:
-  name: Graham Northrup
-  email: gnorthrup@berkeley.edu
-  twitter: graham_northrup
+  name: Vishwas J 
+  email: vishwasjshetty@gmail.com
+  #twitter: graham_northrup
   google:
     ad-client:
     ad-slot:
   bio: This is my bio
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  avatar: vish_pic.jpeg # 160x160 px image for author byline
+  #disqus-shortname:
 
 
 include:
